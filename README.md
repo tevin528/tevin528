@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tevin
 - 👀 I’m interested in not dying. 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on <b> nothing. </b>
 - 📫 How to reach me <i> tevinjc528@gmail.com </i>
 
